@@ -1,0 +1,8 @@
+
+^
+java:S1659W"ADeclare "cols" and all following declarations on a separate line.(±Ä8Ú‰‹éÀ1
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(¸“ã°ÿÿÿÿÿ8Ü‰‹éÀ1
+t
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ƒÄ…ûÿÿÿÿÿ8İ‰‹éÀ1
+^
+java:S1126Ô"AReplace this if-then-else statement by a single return statement.(åè¼8à‰‹éÀ1

@@ -1,0 +1,15 @@
+
+`	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(›Ø‘şÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ı¸šÍûÿÿÿÿ
+^
+java:S2259…"GA "NullPointerException" could be thrown; "multiLock" is nullable here.(·à‚
+F
+java:S2160"+Override the "equals" method in this class.(ãÎß’üÿÿÿÿ
+?
+java:S1197"*Move the array designators [] to the type.(¨¤
+h
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(âù†ô
+P
+java:S1119Q";Refactor the code to remove this label and the need for it.(àÏÅ)
+]
+java:S6201["HReplace this instanceof check and cast with 'instanceof ValueMessage vm'(ô™…`

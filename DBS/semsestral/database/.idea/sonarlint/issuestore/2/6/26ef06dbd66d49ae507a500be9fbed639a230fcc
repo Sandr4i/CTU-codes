@@ -1,0 +1,10 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(Â“¤8‡’åüû1J$e8703e38-2dcd-4b71-b48c-c04340bbd47c
+r	java:S106"+Replace this use of System.out by a logger.(¹ìŞ‰ÿÿÿÿÿ8‡’åüû1J$ff2307ce-3307-4a6f-bf08-df24ba4f6ccf
+~	java:S125""<This block of commented-out lines of code should be removed.(ğÕœ¿8ø§åüû1J$5ecb516f-f1f7-4cd0-a421-068b1ee1320f
+q
+java:S1172(")Remove this unused method parameter "id".(»Äìüÿÿÿÿ8µŸşúû1J$34a01ce2-c500-4b7f-b560-43dff44ddd8f
+‡
+java:S1172,"?Remove these unused method parameters "pageSize", "pageNumber".(î§ÉÎøÿÿÿÿ8µŸşúû1J$96f81cbf-46ec-44a7-80c5-adcd60280055
+n
+java:S1168-"+Return an empty collection instead of null.(¥¹ï8µŸşúû1J$fd9f0889-486a-4074-a14e-815e907ebf09

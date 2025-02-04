@@ -1,0 +1,12 @@
+
+F
+java:S2160"+Override the "equals" method in this class.(ıÿæèøÿÿÿÿ
+h
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(âù†ô
+d
+java:S6201/"NReplace this instanceof check and cast with 'instanceof PFDMessage pfdmessage'(’àúë
+E	java:S1066"+Replace this use of System.err by a logger.(Ïíæ±øÿÿÿÿ
+E	java:S106:"+Replace this use of System.err by a logger.(éìÉÔşÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(¸£Ó°úÿÿÿÿ
+E	java:S106Z"+Replace this use of System.err by a logger.(¼Ïá÷ıÿÿÿÿ
+@	java:S106c"+Replace this use of System.out by a logger.(ùàèü

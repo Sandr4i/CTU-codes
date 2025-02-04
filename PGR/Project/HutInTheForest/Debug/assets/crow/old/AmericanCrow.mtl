@@ -1,0 +1,14 @@
+# Blender 4.1.1 MTL File: 'AmericanCrow.blend'
+# www.blender.org
+
+newmtl body
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd L:/ctu/PRG/Project/Hut/HutInTheForest/assets/Textures-1/AmericanCrow3_body_BaseColor.png
+map_Ns L:/ctu/PRG/Project/Hut/HutInTheForest/assets/Textures-1/AmericanCrow3_body_Roughness.png
+map_refl L:/ctu/PRG/Project/Hut/HutInTheForest/assets/Textures-1/AmericanCrow3_body_Metallic.png
+map_d L:/ctu/PRG/Project/Hut/HutInTheForest/assets/Textures-1/alpha.png
+map_Bump -bm 1.000000 L:/ctu/PRG/Project/Hut/HutInTheForest/assets/Textures-1/AmericanCrow3_body_Normal.png

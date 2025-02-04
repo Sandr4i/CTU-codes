@@ -1,0 +1,3 @@
+/home/sandrai/Desktop/CTU/4.semestr/PDV/HW/HW02/pdv-02openmp/cmake-build-debug/CMakeFiles/hw.dir
+/home/sandrai/Desktop/CTU/4.semestr/PDV/HW/HW02/pdv-02openmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sandrai/Desktop/CTU/4.semestr/PDV/HW/HW02/pdv-02openmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

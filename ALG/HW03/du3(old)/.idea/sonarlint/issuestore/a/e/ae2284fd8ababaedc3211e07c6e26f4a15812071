@@ -1,0 +1,26 @@
+
+o
+java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(ÜßÞÒûÿÿÿÿ8ßÏ„É¾1
+t
+java:S1104"RMake values a static final constant or non-public and provide accessors if needed.(³ŽÀ—üÿÿÿÿ8ßÏ„É¾1
+m
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(ÏÒëˆ8ßÏ„É¾1
+I
+java:S1444"'Make this "public static N" field final(ÜßÞÒûÿÿÿÿ8ßÏ„É¾1
+N
+java:S1444",Make this "public static values" field final(³ŽÀ—üÿÿÿÿ8ßÏ„É¾1
+G
+java:S1444"*Make this "public static root" field final(ÏÒëˆ8ßÏ„É¾1
+_
+java:S2259'"BA "NullPointerException" could be thrown; "root" is nullable here.(²·°·8Âç“É¾1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßÞÒûÿÿÿÿ8æÏ„É¾1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇúªÓþÿÿÿÿ8çÏ„É¾1
+C
+java:S2386%"!Make member "values" "protected".(žŽ¬ôÿÿÿÿÿ8èÏ„É¾1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(²·°·8éÏ„É¾1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ÏÍÛ…øÿÿÿÿ8¢ß’É¾1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ÏÍÛ…øÿÿÿÿ8£ß’É¾1
+X	java:S125V"<This block of commented-out lines of code should be removed.(ÝÌäî8ëÏ„É¾1
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Ïç“É¾1

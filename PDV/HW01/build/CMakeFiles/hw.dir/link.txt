@@ -1,0 +1,1 @@
+/usr/bin/clang++ -O3 -DNDEBUG -flto=thin CMakeFiles/hw.dir/src/main.cpp.o -o hw 

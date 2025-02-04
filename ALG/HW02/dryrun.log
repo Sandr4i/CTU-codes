@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/sandrai/Desktop/3.semestr/ALG/DU2'
+gcc -Wall -g -O2  main.c -o main
+make: Leaving directory '/home/sandrai/Desktop/3.semestr/ALG/DU2'
+ 

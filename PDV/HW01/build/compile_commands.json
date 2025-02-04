@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sandrai/Desktop/4.semestr/PDV/HW/HW01/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -flto=thin -Wall -Wextra -Wpedantic -march=native -std=gnu++20 -o CMakeFiles/hw.dir/src/main.cpp.o -c /home/sandrai/Desktop/4.semestr/PDV/HW/HW01/src/main.cpp",
+  "file": "/home/sandrai/Desktop/4.semestr/PDV/HW/HW01/src/main.cpp"
+}
+]

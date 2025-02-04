@@ -1,0 +1,3 @@
+PATH phone/link
+PATH /home/sandrai/Desktop/try.c
+PATH /home/sandrai/Desktop/try.py

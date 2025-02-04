@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\render_stuff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\spline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="assets\wood\chunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="assets\terrain\terrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\render_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\spline_curve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\spline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="assets\wood\chunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="assets\terrain\terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\trees_positions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\campfire\uploads_files_667810_vanra+hotova.blend" />
+    <None Include="shaders\waterAnimation.vert" />
+    <None Include="shaders\waterAnimation.frag" />
+    <None Include="shaders\waterBlend.frag" />
+    <None Include="shaders\waterBlend.vert" />
+    <None Include="shaders\banner.frag" />
+    <None Include="shaders\banner.vert" />
+    <None Include="shaders\skybox.vert" />
+    <None Include="shaders\skybox.frag" />
+    <None Include="shaders\flame.vert" />
+    <None Include="shaders\flame.frag" />
+    <None Include="shaders\light.frag" />
+    <None Include="shaders\light.vert" />
+    <None Include="shaders\crow.vert" />
+    <None Include="shaders\crow.frag" />
+    <None Include="shaders\boat.frag" />
+    <None Include="shaders\boat.vert" />
+    <None Include="assets\hut\wood.webp" />
+    <None Include="assets\wood\wood.webp" />
+    <None Include="shaders\frog.vert" />
+    <None Include="shaders\frog.frag" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\bench\innerwood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boat\Some Birch Wood.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boat\Might be wood.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\campfire\wood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\campfire\rock.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\campfire\flame.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\campfire\ashes.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crow\AmericanCrow3_body_Roughness.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crow\AmericanCrow3_body_Normal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crow\AmericanCrow3_body_Metallic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crow\AmericanCrow3_body_BaseColor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\frog\frog_diff.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hut\door.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hut\floor.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hut\innerwood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hut\rood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\rain\rain.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\Brudslojan.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\terrain\images.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\terrain\Rock_texture_background_Wall_Mural_Wallpaper_a_1400x.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\water\water.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\wood\innerwood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\wood\MetalTexture.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\wood\Wood_Texture.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\wood\WoodTexture.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\bench\wood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hut\wood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\negx.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\posz.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\posy.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\posx.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\negz.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skybox\negy.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

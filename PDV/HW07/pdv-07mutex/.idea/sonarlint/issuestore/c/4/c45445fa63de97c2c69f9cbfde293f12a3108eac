@@ -1,0 +1,12 @@
+
+k
+java:S5411w"(Use a primitive boolean expression here.(Ú’º£8è³Ó¹ø1J$728af7c8-ff2a-4a9f-b0b9-4d838e8ff8c3
+š
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿õĞûÿÿÿÿ8´Ó¹ø1J$2a06e329-a09d-4015-9628-1c8dee7d7466
+‹
+java:S6201["HReplace this instanceof check and cast with 'instanceof Request request'(ŞØâñ8‚´Ó¹ø1J$41b387c9-9f4d-412f-a812-b2f5546c3cfa
+
+java:S6201n"HReplace this instanceof check and cast with 'instanceof Success success'(‚Ìõøÿÿÿÿ8„´Ó¹ø1J$14fbf406-c082-40f1-917f-b2f3af70c380
+~	java:S125ƒ"<This block of commented-out lines of code should be removed.(äİ‰)8…´Ó¹ø1J$c4613124-76d4-452b-b845-a2430e3168c6
+~	java:S125”"<This block of commented-out lines of code should be removed.(äİ‰)8†´Ó¹ø1J$4dd58ba2-5f46-4b24-bfd1-e1f33b55d207
+~	java:S125£"<This block of commented-out lines of code should be removed.(äİ‰)8‡´Ó¹ø1J$cb60b766-c432-4ebe-aa82-6c9b2f6adbf6

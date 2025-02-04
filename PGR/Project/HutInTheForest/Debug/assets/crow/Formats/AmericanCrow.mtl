@@ -1,0 +1,17 @@
+# Blender MTL File: 'AmericanCrow.blend'
+# Material Count: 1
+
+newmtl body
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\masakizo432\\Desktop\\to be\\AmericanCrow\\Textures-1\\AmericanCrow3_body_Normal.png
+map_Kd C:\\Users\\masakizo432\\Desktop\\to be\\AmericanCrow\\Textures-1\\AmericanCrow3_body_BaseColor.png
+map_Ns C:\\Users\\masakizo432\\Desktop\\to be\\AmericanCrow\\Textures-1\\AmericanCrow3_body_Roughness.png
+map_d C:\\Users\\masakizo432\\Desktop\\to be\\AmericanCrow\\Textures-1\\alpha.png
+refl C:\\Users\\masakizo432\\Desktop\\to be\\AmericanCrow\\Textures-1\\AmericanCrow3_body_Metallic.png

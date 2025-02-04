@@ -1,0 +1,11 @@
+# ninja log v5
+1	545	1711643892138414232	CMakeFiles/hw.dir/src/main.cpp.o	30676b26d1e73a57
+0	900	1711643892494410517	CMakeFiles/hw.dir/src/generator.cpp.o	e1a972e3aabb3523
+900	1203	1711643892798407345	hw	6f3deb3dde62efee
+1	939	1711644149544437965	CMakeFiles/hw.dir/src/generator.cpp.o	e1a972e3aabb3523
+1	511	1711644179148273912	CMakeFiles/hw.dir/src/main.cpp.o	30676b26d1e73a57
+1	859	1711644179496272036	CMakeFiles/hw.dir/src/generator.cpp.o	e1a972e3aabb3523
+859	1124	1711644179760270613	hw	6f3deb3dde62efee
+1	633	1711745719483321390	CMakeFiles/hw.dir/src/main.cpp.o	30676b26d1e73a57
+1	962	1711745719811312922	CMakeFiles/hw.dir/src/generator.cpp.o	e1a972e3aabb3523
+962	1285	1711745720135304585	hw	6f3deb3dde62efee

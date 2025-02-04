@@ -1,0 +1,20 @@
+
+s
+java:S1066˜"/Merge this if statement with the enclosing one.(å™Ğˆ8Úìµûò1J$1ee63869-2282-4f99-bef2-3da81603ccb7
+~	java:S125D"<This block of commented-out lines of code should be removed.(Ò§Ç·8åíµûò1J$5c290948-fa61-4859-aac3-16b74ca74c6e
+”
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(§§´Z8æíµûò1J$51673c33-63fb-4e3c-9aa2-748d2d4b845a
+Œ
+java:S6201Z"IReplace this instanceof check and cast with 'instanceof PingMessage ping'(èÖ”Ğ8èíµûò1J$007bba51-cf97-4a91-a3df-f65973d627fc
+Œ
+java:S6201k"IReplace this instanceof check and cast with 'instanceof PingRequest ping'(õ‡Ûé8éíµûò1J$4e89434b-b07d-49e7-825c-37dad358971a
+Š
+java:S6201w"GReplace this instanceof check and cast with 'instanceof AckMessage ack'(’‹Çÿ8êíµûò1J$1727ea93-b6df-4d37-884b-819e38d579d1
+”
+java:S6201…"PReplace this instanceof check and cast with 'instanceof DeadProcessMessage dead'(ôèâ°8ëíµûò1J$bcf73841-042a-4b81-b5ad-0023ceb91832
+~	java:S125‹"<This block of commented-out lines of code should be removed.(êìi8©öºûò1J$abf034ab-1fe2-4662-be3d-6593c5367c90
+^	java:S125µ"<This block of commented-out lines of code should be removed.(Ò§”úÿÿÿÿ8ƒ÷ûò1
+€
+java:S1068"=Remove this unused "timeToDetectKilledProcess" private field.(¯…Ïä8ğíµûò1J$6122cbce-0f8c-4963-ace2-44731ada9283
+ˆ
+java:S6541S"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 28 to 14, Nesting Level from 5 to 2, Number of Variables from 17 to 6.(§§´Z8ğíµûò1J$412527d0-6f86-4e33-b46b-998fb6e6ea41
