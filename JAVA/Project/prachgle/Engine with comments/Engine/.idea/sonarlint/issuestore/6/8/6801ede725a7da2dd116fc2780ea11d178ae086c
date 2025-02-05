@@ -1,0 +1,12 @@
+
+n
+java:S1104"SMake texture a static final constant or non-public and provide accessors if needed.(şâÌüÿÿÿÿ
+m
+java:S1104"WMake mapTextures a static final constant or non-public and provide accessors if needed.(õ‘‡©
+K
+java:S1948")Make "texture" transient or serializable.(şâÌüÿÿÿÿ8“Èšö„1
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(öÜ°ü
+@
+java:S1197>"*Move the array designators [] to the type.(ß›
+C	java:S108I")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(¸¸€˜

@@ -1,0 +1,39 @@
+
+h
+java:S1104	"RMake mapIdx a static final constant or non-public and provide accessors if needed.(“îêƒ
+f
+java:S1104
+"QMake close a static final constant or non-public and provide accessors if needed.(’Â9
+m
+java:S1104"RMake custom a static final constant or non-public and provide accessors if needed.(Ç‚šùÿÿÿÿ
+q
+java:S1104"VMake worldWidth a static final constant or non-public and provide accessors if needed.(€ÓÃ‘ûÿÿÿÿ
+m
+java:S1104"WMake worldHeight a static final constant or non-public and provide accessors if needed.(‡¼·¦
+m
+java:S1104"RMake coordX a static final constant or non-public and provide accessors if needed.(ş§èıÿÿÿÿ
+m
+java:S1104"RMake coordY a static final constant or non-public and provide accessors if needed.(ş§èıÿÿÿÿ
+e
+java:S1104"PMake path a static final constant or non-public and provide accessors if needed.(‡ÛÛ?
+B
+java:S1444	",Make this "public static mapIdx" field final(“îêƒ
+@
+java:S1444
+"+Make this "public static close" field final(’Â9
+G
+java:S1444",Make this "public static custom" field final(Ç‚šùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôîÉ’
+?
+java:S1659"$Declare "coordY" on a separate line.(ş§èıÿÿÿÿ
+b
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(§ü½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë”È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ÏœÏ
+t
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ƒ®ò•
+L
+java:S2696+"6Make the enclosing method "static" or remove this set.(îÏâ²
+;
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©

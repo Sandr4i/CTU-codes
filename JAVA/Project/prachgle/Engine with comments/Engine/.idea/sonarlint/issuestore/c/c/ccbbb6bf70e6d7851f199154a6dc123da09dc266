@@ -1,0 +1,33 @@
+
+e
+java:S1104"PMake path a static final constant or non-public and provide accessors if needed.(‡ÛÛ?
+q
+java:S1104"VMake worldWidth a static final constant or non-public and provide accessors if needed.(€ÓÃ‘ûÿÿÿÿ
+m
+java:S1104"WMake worldHeight a static final constant or non-public and provide accessors if needed.(‡¼·¦
+f
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(œ¶©i
+s
+java:S1450"XRemove the "mapHeight" field and declare it as a local variable in the relevant methods.(À§Ÿ×ýÿÿÿÿ
+r
+java:S1450"WRemove the "mapWidth" field and declare it as a local variable in the relevant methods.(šú…Ùùÿÿÿÿ
+i
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(«úõÜ
+t
+java:S1450"YRemove the "tImagePath" field and declare it as a local variable in the relevant methods.(·îþÞùÿÿÿÿ
+_
+java:S6201Y"IReplace this instanceof check and cast with 'instanceof MapEditor mFrame'(î’¹ˆ
+H
+java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû
+T
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íÐ‡þÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+C
+java:S1068"-Remove this unused "imagePath" private field.(¸î½ß
+I
+java:S1068".Remove this unused "tImagePath" private field.(·îþÞùÿÿÿÿ

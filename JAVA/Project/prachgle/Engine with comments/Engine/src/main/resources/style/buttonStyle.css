@@ -1,0 +1,10 @@
+
+.button {
+    -fx-background-color: #FFB700;
+}
+.button:pressed {
+    -fx-background-color: linear-gradient(#FF9200, #FFC373);
+    -fx-background-insets: 0 0 4 0, 0, 1, 2;
+    -fx-background-radius: 8 8 7 7;
+    -fx-padding: 15 30 15 30;
+}

@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôîÉ’
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ğ¡Åûÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(ÖóÚ²üÿÿÿÿ
+B
+java:S1602#",Remove useless curly braces around statement(˜µÌ‘
+S
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ
