@@ -13,4 +13,6 @@ The repository is organized as follows:
 * PGR: Graphics programming (Programování grafiky)  
 * PRP: Procedural programming (Procedurální programování)  
 * PSIA: Computer Networks (Počítačové sítě)  
-* ZUI: Introduction to Artificial Intelligence (Základy umělé inteligence) 
+* ZUI: Introduction to Artificial Intelligence (Základy umělé inteligence)
+
+This repository was created for study only. Do not copy any code!
