@@ -3,5 +3,14 @@ Welcome to my personal repository for homework assignments and semestral project
 
 ## 📂 Repository Structure
 The repository is organized as follows:
-(todo: add projects as listed)
-
+*ALG: Algorithmization (Algoritmizace)
+*APO: Computer architecture (Architektura počítačů)
+*DBS: Databases
+*JAVA: Programming in Java (Programování v Javě)
+*OPT: Optimization (Optimalizace)
+*OSY: Operating systems (Operační systémy)
+*PDV: Parallel and distributed computing (Paralelní a distribuované výpočty)
+*PGR: Graphics programming (Programování grafiky)
+*PRP: Procedural programming (Procedurální programování)
+*PSIA: Computer Networks (Počítačové sítě)
+*ZUI: Introduction to Artificial Intelligence (Základy umělé inteligence)
