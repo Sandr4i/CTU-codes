@@ -1,5 +1,7 @@
 #include <stdio.h>
  
+// This is one of my first programs ever, so it's logic is not good 
+
 int main()
 {
     int n;
